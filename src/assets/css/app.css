@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .zozor{
+        @apply
+        text-center text-6xl text-rose-600
+    }
+}
